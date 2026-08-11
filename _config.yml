@@ -1,0 +1,7 @@
+title: Jai Malegaonkar
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+permalink: /blog/:title/
+exclude:
+  - README.md

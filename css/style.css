@@ -1,0 +1,152 @@
+/* jmalegaonkar.com — single stylesheet */
+
+:root {
+  --text: #1a1a1a;
+  --muted: #666;
+  --link: #0645ad;
+  --rule: #ddd;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0 1.25rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--text);
+  background: #fff;
+}
+
+main, header.site-header, footer.site-footer {
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+/* Nav */
+header.site-header {
+  padding: 2.5rem 0 1.5rem;
+}
+
+header.site-header nav a {
+  margin-right: 1.25rem;
+  color: var(--link);
+  text-decoration: none;
+}
+
+header.site-header nav a:hover {
+  text-decoration: underline;
+}
+
+header.site-header nav a.active {
+  color: var(--text);
+  font-weight: bold;
+  pointer-events: none;
+}
+
+/* Content */
+h1 {
+  font-size: 1.7rem;
+  margin: 1rem 0 1rem;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin: 2rem 0 0.75rem;
+  font-weight: bold;
+}
+
+a {
+  color: var(--link);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 2rem 0;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+/* Home */
+.profile {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.profile img {
+  width: 160px;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.profile .bio {
+  flex: 1;
+  min-width: 16rem;
+}
+
+.contact-links {
+  margin-top: 0.5rem;
+}
+
+.contact-links a {
+  margin-right: 0.9rem;
+}
+
+/* Lists: news, experience, publications, blog index */
+ul.plain {
+  list-style: none;
+  padding: 0;
+}
+
+ul.plain li {
+  margin-bottom: 1.1rem;
+}
+
+.date {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.pub-title {
+  font-style: italic;
+}
+
+.pub-venue {
+  color: var(--muted);
+}
+
+/* Blog posts */
+article .post-meta {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+}
+
+article {
+  margin-bottom: 3rem;
+}
+
+/* Footer */
+footer.site-footer {
+  padding: 2rem 0 3rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 1rem;
+  }
+  .profile img {
+    width: 130px;
+  }
+}
