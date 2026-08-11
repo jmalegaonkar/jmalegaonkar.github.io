@@ -7,7 +7,7 @@ title: Blog
 <ul class="plain">
   {% for post in site.posts %}
   <li>
-    <span class="date">{{ post.date | date: "%b %Y" }}</span> —
+    <span class="date">{{ post.date | date: "%b %Y" }}</span> &middot;
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
   {% endfor %}

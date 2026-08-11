@@ -4,11 +4,11 @@ title: "Example post: writing in Markdown with math"
 math: true
 ---
 
-This is the post template — plain Markdown. Write prose in paragraphs,
+This is the post template, written in plain Markdown. Write prose in paragraphs,
 use `**bold**`, `*italics*`, and [links](https://example.com) as usual.
 
 One kramdown quirk: **inline math also uses double dollar signs**, like
-$$\pi(a \mid s)$$ or $$\mathbb{E}[X] = \sum_x x\, p(x)$$ — kramdown tells
+$$\pi(a \mid s)$$ or $$\mathbb{E}[X] = \sum_x x\, p(x)$$. Kramdown tells
 inline from display apart by context.
 
 Display math is a `$$` block on its own lines:
