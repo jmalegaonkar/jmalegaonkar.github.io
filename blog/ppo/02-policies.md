@@ -9,4 +9,4 @@ math: true
 
 ---
 
-Prev: [What is RL?](/blog/ppo/what-is-rl/) &middot; [Series overview](/blog/teaching-myself-ppo-from-scratch/) &middot; Next: [Value, Q, and Advantage Functions](/blog/ppo/value-q-advantage/)
+Prev: [What Is Reinforcement Learning?](/blog/ppo/what-is-rl/) &middot; [Series overview](/blog/rebuilding-ppo-from-first-principles/) &middot; Next: [Understanding Value, Q, and Advantage](/blog/ppo/value-q-advantage/)

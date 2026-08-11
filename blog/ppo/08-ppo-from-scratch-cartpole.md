@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Implementing PPO from Scratch with CartPole"
+title: "Building PPO from Scratch (PyTorch + CartPole)"
 permalink: /blog/ppo/ppo-from-scratch-cartpole/
 math: true
 ---
@@ -9,4 +9,4 @@ math: true
 
 ---
 
-Prev: [PPO Algorithm (Under the Hood)](/blog/ppo/ppo-under-the-hood/) &middot; [Series overview](/blog/teaching-myself-ppo-from-scratch/) &middot; Next: [PPO Hyperparameters Explained](/blog/ppo/ppo-hyperparams/)
+Prev: [Inside PPO: Rollouts, Epochs, and Minibatches](/blog/ppo/ppo-under-the-hood/) &middot; [Series overview](/blog/rebuilding-ppo-from-first-principles/) &middot; Next: [Understanding PPO's Hyperparameters](/blog/ppo/ppo-hyperparams/)

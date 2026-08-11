@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Value, Q, and Advantage Functions"
+title: "Understanding Value, Q, and Advantage"
 permalink: /blog/ppo/value-q-advantage/
 math: true
 ---
@@ -9,4 +9,4 @@ math: true
 
 ---
 
-Prev: [Policies: Teaching an Agent to Make Decisions](/blog/ppo/policies/) &middot; [Series overview](/blog/teaching-myself-ppo-from-scratch/) &middot; Next: [From Policy Gradients to Actor-Critic](/blog/ppo/policy-gradients-to-actor-critic/)
+Prev: [Policies: Teaching an Agent to Make Decisions](/blog/ppo/policies/) &middot; [Series overview](/blog/rebuilding-ppo-from-first-principles/) &middot; Next: [From REINFORCE to Actor-Critic](/blog/ppo/policy-gradients-to-actor-critic/)

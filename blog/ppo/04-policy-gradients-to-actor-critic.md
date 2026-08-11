@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Policy Gradients to Actor-Critic"
+title: "From REINFORCE to Actor-Critic"
 permalink: /blog/ppo/policy-gradients-to-actor-critic/
 math: true
 ---
@@ -9,4 +9,4 @@ math: true
 
 ---
 
-Prev: [Value, Q, and Advantage Functions](/blog/ppo/value-q-advantage/) &middot; [Series overview](/blog/teaching-myself-ppo-from-scratch/) &middot; Next: [GAE](/blog/ppo/gae/)
+Prev: [Understanding Value, Q, and Advantage](/blog/ppo/value-q-advantage/) &middot; [Series overview](/blog/rebuilding-ppo-from-first-principles/) &middot; Next: [GAE: Solving the Bias-Variance Tradeoff](/blog/ppo/gae/)

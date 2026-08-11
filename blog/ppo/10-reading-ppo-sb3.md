@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reading PPO from SB3"
+title: "Reading Stable-Baselines3's PPO Implementation"
 permalink: /blog/ppo/reading-ppo-sb3/
 math: true
 ---
@@ -9,4 +9,4 @@ math: true
 
 ---
 
-Prev: [PPO Hyperparameters Explained](/blog/ppo/ppo-hyperparams/) &middot; [Series overview](/blog/teaching-myself-ppo-from-scratch/) &middot; Next: [Why PPO Needs Memory](/blog/ppo/why-ppo-needs-memory/)
+Prev: [Understanding PPO's Hyperparameters](/blog/ppo/ppo-hyperparams/) &middot; [Series overview](/blog/rebuilding-ppo-from-first-principles/) &middot; Next: [When PPO Isn't Enough: The Need for Memory](/blog/ppo/why-ppo-needs-memory/)

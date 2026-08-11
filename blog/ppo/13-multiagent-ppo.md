@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multi-Agent PPO"
+title: "Extending PPO to Multiple Agents"
 permalink: /blog/ppo/multiagent-ppo/
 math: true
 ---
@@ -9,4 +9,4 @@ math: true
 
 ---
 
-Prev: [Recurrent PPO](/blog/ppo/recurrent-ppo/) &middot; [Series overview](/blog/teaching-myself-ppo-from-scratch/)
+Prev: [Recurrent PPO: Teaching PPO to Remember](/blog/ppo/recurrent-ppo/) &middot; [Series overview](/blog/rebuilding-ppo-from-first-principles/)

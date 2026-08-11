@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PPO Hyperparameters Explained"
+title: "Understanding PPO's Hyperparameters"
 permalink: /blog/ppo/ppo-hyperparams/
 math: true
 ---
@@ -9,4 +9,4 @@ math: true
 
 ---
 
-Prev: [Implementing PPO from Scratch with CartPole](/blog/ppo/ppo-from-scratch-cartpole/) &middot; [Series overview](/blog/teaching-myself-ppo-from-scratch/) &middot; Next: [Reading PPO from SB3](/blog/ppo/reading-ppo-sb3/)
+Prev: [Building PPO from Scratch (PyTorch + CartPole)](/blog/ppo/ppo-from-scratch-cartpole/) &middot; [Series overview](/blog/rebuilding-ppo-from-first-principles/) &middot; Next: [Reading Stable-Baselines3's PPO Implementation](/blog/ppo/reading-ppo-sb3/)

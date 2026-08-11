@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is RL?"
+title: "What Is Reinforcement Learning?"
 permalink: /blog/ppo/what-is-rl/
 math: true
 ---
@@ -9,4 +9,4 @@ math: true
 
 ---
 
-[Series overview](/blog/teaching-myself-ppo-from-scratch/) &middot; Next: [Policies: Teaching an Agent to Make Decisions](/blog/ppo/policies/)
+[Series overview](/blog/rebuilding-ppo-from-first-principles/) &middot; Next: [Policies: Teaching an Agent to Make Decisions](/blog/ppo/policies/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recurrent PPO"
+title: "Recurrent PPO: Teaching PPO to Remember"
 permalink: /blog/ppo/recurrent-ppo/
 math: true
 ---
@@ -9,4 +9,4 @@ math: true
 
 ---
 
-Prev: [Why PPO Needs Memory](/blog/ppo/why-ppo-needs-memory/) &middot; [Series overview](/blog/teaching-myself-ppo-from-scratch/) &middot; Next: [Multi-Agent PPO](/blog/ppo/multiagent-ppo/)
+Prev: [When PPO Isn't Enough: The Need for Memory](/blog/ppo/why-ppo-needs-memory/) &middot; [Series overview](/blog/rebuilding-ppo-from-first-principles/) &middot; Next: [Extending PPO to Multiple Agents](/blog/ppo/multiagent-ppo/)

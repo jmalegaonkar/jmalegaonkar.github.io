@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAE"
+title: "GAE: Solving the Bias-Variance Tradeoff"
 permalink: /blog/ppo/gae/
 math: true
 ---
@@ -9,4 +9,4 @@ math: true
 
 ---
 
-Prev: [From Policy Gradients to Actor-Critic](/blog/ppo/policy-gradients-to-actor-critic/) &middot; [Series overview](/blog/teaching-myself-ppo-from-scratch/) &middot; Next: [Why PPO Exists](/blog/ppo/why-ppo-exists/)
+Prev: [From REINFORCE to Actor-Critic](/blog/ppo/policy-gradients-to-actor-critic/) &middot; [Series overview](/blog/rebuilding-ppo-from-first-principles/) &middot; Next: [Why PPO Exists: From TRPO to Clipping](/blog/ppo/why-ppo-exists/)

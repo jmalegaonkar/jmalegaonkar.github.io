@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PPO Algorithm (Under the Hood)"
+title: "Inside PPO: Rollouts, Epochs, and Minibatches"
 permalink: /blog/ppo/ppo-under-the-hood/
 math: true
 ---
@@ -9,4 +9,4 @@ math: true
 
 ---
 
-Prev: [Why PPO Exists](/blog/ppo/why-ppo-exists/) &middot; [Series overview](/blog/teaching-myself-ppo-from-scratch/) &middot; Next: [Implementing PPO from Scratch with CartPole](/blog/ppo/ppo-from-scratch-cartpole/)
+Prev: [Why PPO Exists: From TRPO to Clipping](/blog/ppo/why-ppo-exists/) &middot; [Series overview](/blog/rebuilding-ppo-from-first-principles/) &middot; Next: [Building PPO from Scratch (PyTorch + CartPole)](/blog/ppo/ppo-from-scratch-cartpole/)
